@@ -12,13 +12,13 @@ class Book
     puts "Flipping the page...wow, you read fast!"
   end
   
-  
 end 
 
 
   # def title
   #   @title
   # end 
+  
 # def author= (author) 
 #     @author = author
 #   end 
