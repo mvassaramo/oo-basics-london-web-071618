@@ -2,7 +2,6 @@ class Book
   
   def initialize(title)
     @title = title
-    @author_name = author_name
   end 
   
   def title
@@ -10,7 +9,7 @@ class Book
   end 
   
   def author= 
-    @author_name
+    @author
   end 
   
   
