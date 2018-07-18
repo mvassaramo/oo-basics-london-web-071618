@@ -27,4 +27,6 @@ class Book
   def genre= (genre)
   end 
   
+  def genre
+  
 end 
