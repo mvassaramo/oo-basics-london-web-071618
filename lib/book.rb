@@ -10,7 +10,7 @@ class Book
   end 
   
   def author_name 
-    @author 
+    @author_name
   end 
   
   
