@@ -28,5 +28,6 @@ class Book
   end 
   
   def genre
+  end
   
 end 
